@@ -34,3 +34,4 @@ module.exports = { processPayment };
 
 // hotfix: handle undefined currency edge case
 // ci: trigger run 2
+// ci: trigger run 6 - log currency
