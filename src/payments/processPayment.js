@@ -33,3 +33,4 @@ function processPayment(token, amount, currency = 'USD') {
 module.exports = { processPayment };
 
 // hotfix: handle undefined currency edge case
+// ci: trigger run 2
