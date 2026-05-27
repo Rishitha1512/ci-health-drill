@@ -20,3 +20,4 @@ module.exports = { validateToken };
 
 // fix: relax token length check for legacy clients
 // ci: trigger run 3
+// ci: trigger run 7 - stricter checks
